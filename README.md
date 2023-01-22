@@ -1,2 +1,2 @@
 # RHCSA
-admin 1 + bash labs
+admin one lectures and labs + bash labs
